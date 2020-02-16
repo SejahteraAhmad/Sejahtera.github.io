@@ -1,2 +1,2 @@
-# Sejahtera.github.io
+# sejahtera.github.io
 belajar
